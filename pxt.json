@@ -4,7 +4,15 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "pxt-sonar": "github:microsoft/pxt-sonar#v0.0.5",
+        "datalogger": "*",
+        "servo": "*",
+        "microturtle": "github:microsoft/pxt-microturtle#v0.0.9",
+        "radio-broadcast": "*",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.7.5",
+        "Environment-and-Science-IoT": "github:tinkertanker/pxt-iot-environment-kit#v5.1.7",
+        "tinkercademy-tinker-kit": "github:tinkertanker/pxt-tinkercademy-tinker-kit#v1.1.1"
     },
     "files": [
         "main.blocks",
