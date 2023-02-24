@@ -1,17 +1,55 @@
 input.onButtonPressed(Button.A, function () {
 	
 })
+function resetgame () {
+	
+}
 input.onButtonPressed(Button.AB, function () {
 	
 })
+function gameOver () {
+    game.setScore(0)
+    game.pause()
+    basic.pause(100)
+}
 function letComputerPlay () {
-	
+    aanroep = 0
+    aanroep = 0
+    aanroep = 0
+    aanroep = 0
+    if (true) {
+        aanroep = 0
+    }
+    aanroep = 0
+    aanroep = 0
+    aanroep = 0
+    aanroep = 0
+    aanroep = 0
+    if (true) {
+        aanroep = 0
+    }
+    aanroep = 0
+    aanroep = 0
+    aanroep = 0
+    aanroep = 0
+    aanroep = 0
+    if (true) {
+        aanroep = 0
+    }
+    if (true) {
+    	
+    } else if (false) {
+    	
+    } else {
+    	
+    }
 }
 input.onButtonPressed(Button.B, function () {
 	
 })
 let score = 0
 let delay = 0
+let aanroep = 0
 let stel_direction = 0
 let dxOffset = 0
 let snake = 0
